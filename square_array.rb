@@ -9,6 +9,6 @@ def square_array(array)
   
   #add the result to the return array 
   end 
-
+return_array
 
 end
