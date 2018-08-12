@@ -1,9 +1,9 @@
 def square_array(array)
   # your code here
   
-  return_array[]
+  return_array = []
  
-  array.each do |numbers| {
+  array.each do |numbers| 
   #square mu nukbers
   return_array.push num*num 
   
